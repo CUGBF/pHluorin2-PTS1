@@ -4,4 +4,4 @@ This is an expression plasmid for expression of glycosomal pHlourin2 in Trypanos
 **Authors**<BR>
 James Morris, Genetics & Biochemistry, Clemson University, USA<BR>
 Kenneth Christensen, Chemistry and Biochemistry, Brigham Young University, USA <BR>
-Daniel Call
+Daniel Call, Chemistry and Biochemistry, Brigham Young University, USA <BR>
